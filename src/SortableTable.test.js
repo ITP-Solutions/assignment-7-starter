@@ -48,4 +48,4 @@ test("rendering rows with a string default sort in descending order", () => {
 
 test("clicking on the table header with the sort reverses the sort", () => {});
 
-test("clicking on a table header without the sort applies the sort to that column", () => {});
+test("clicking on a table header without the sort applies an ascending sort to that column", () => {});
